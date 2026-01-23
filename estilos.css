@@ -40,7 +40,7 @@
 
 /* Portada */
 .portada {
-  background-image: url('1.jpg');
+  background-image: url('portada.jpg');
   /* Cambia la imagen aquí */
   background-size: cover;
   background-position: center;
